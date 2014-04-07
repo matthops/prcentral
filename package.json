@@ -1,0 +1,18 @@
+{
+  "name": "Dev",
+  "version": "0.0.0",
+  "description": "PRCentral",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hopkins",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "~1.3.1",
+    "express": "~3.5.1"
+  }
+}
